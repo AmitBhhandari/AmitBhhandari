@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript ,ReactJs, NodeJs and data structure and algorithms**
 
-- 💬 Ask me about **JavaScript , ReactJS**
+- 💬 Ask me about **JavaScript , ReactJS, NodeJS**
 
 - 📫 How to reach me **amitbhandari68@gmail.com**
 
